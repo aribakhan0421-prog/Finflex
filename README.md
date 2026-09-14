@@ -47,24 +47,7 @@ Discovery of financial and tax professionals is often informal and unverified. F
 
 ---
 
-## Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/aribakhan0421-prog/Finflex.git
-cd Finflex
-
-# Install dependencies
-npm install
-
-# Set up environment variables
-cp .env.example .env
-
-# Run the development server
-npm run dev
-```
-
-The application will be available at `http://localhost:5173`.
+The application will be available at `https://nimble-cobbler-d17cc7.netlify.app/`.
 
 ---
 
